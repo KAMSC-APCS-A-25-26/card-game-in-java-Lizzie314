@@ -2,18 +2,21 @@
 Mini-Project 1: Build Your Own Card Game (Java)
 Student Requirements Outline
 
-Student Name:
-Date:
+Student Name: Lizzie Bippley
+Date: April 7, 2026
 
 --------------------------------------------------
 1) GAME CONCEPT
 --------------------------------------------------
-Game Title:
-Brief Description (2-4 sentences):
+Game Title: NASCAR Championship
+Brief Description (2-4 sentences): In this game, players collect and activate cards.  Their goal
+is to win the NASCAR championship.  In the game, players collect cards such as races, laps, fuel,
+drivers, and power ups.  Each of these types of cards have their own purpose and consequence.
 
-Primary Objective of the Game:
+Primary Objective of the Game: The primary objective is to be the first player to collect the
+number of points needed to win the NASCAR championship.
 
-Target Player Experience (fun, challenge, strategy, etc.):
+Target Player Experience (fun, challenge, strategy, etc.): The target player experience is fun.
 
 --------------------------------------------------
 2) PLOT TWIST (REQUIRED)
